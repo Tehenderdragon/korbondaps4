@@ -1,11 +1,11 @@
 /*BEGIN PS4 Controller Styling*/
 .controller.custom{
-    background: url(korb.gif);
+    background: url(korb1.gif);
     height: 598px;
     width: 806px;
 }
 .custom.white{
-    background: url(korb.gif);
+    background: url(korb1.gif);
 }
 .custom.disconnected {
     display: none;
